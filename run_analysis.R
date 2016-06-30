@@ -1,3 +1,5 @@
+Please include UCI_HAR_dataset in your working directory
+
 tidy_ds <- function(){
 ## Read all the data files
 test_data <- read.table("./UCI HAR Dataset/test/X_test.txt",header=FALSE)
